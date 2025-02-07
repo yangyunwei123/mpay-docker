@@ -17,6 +17,7 @@ mpay-docker/
 └── mpay/
     ├── public/
     └── ...其他项目文件...
+```
 
 3.执行```chmod +x start.sh && ./start.sh```
 按照提示输入数据库密码名称端口项目启动之后会输出数据库信息
