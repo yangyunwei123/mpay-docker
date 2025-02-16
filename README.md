@@ -3,6 +3,7 @@
 
 1.创建mpay文件夹与docker-compose.yml同级
 或者执行
+
 ```git clone https://gitee.com/technical-laohu/mpay.git```
 
 2.将项目文件放在mpay中
